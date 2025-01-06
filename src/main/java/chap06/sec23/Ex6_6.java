@@ -1,6 +1,6 @@
 package chap06.sec23;
 
-public class main {
+public class Ex6_6 {
     public static void main(String[] args) {
         Data d = new Data();
         d.x = 10;
