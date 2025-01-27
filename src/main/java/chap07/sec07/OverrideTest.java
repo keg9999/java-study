@@ -1,6 +1,6 @@
 package chap07.sec07;
 
-public class OverridTest { //extends Object
+public class OverrideTest { //extends Object
     public static void main(String[] args) {
         MyPorint myPorint = new MyPorint(1, 2);
         System.out.println(myPorint); //x: 1, y: 2
